@@ -1,0 +1,15 @@
+{
+  "rules": {
+    "member-ordering": [
+      true,
+      {
+        "order": [
+          "static-field",
+          "instance-field",
+          "static-method",
+          "instance-method"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "extends": ["codelyzer"],
+  "rules": {
+    "no-input-rename": true
+  }
+}

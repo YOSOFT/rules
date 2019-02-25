@@ -1,0 +1,5 @@
+{
+  "rules": {
+    "no-output-on-prefix": true
+  }
+}
